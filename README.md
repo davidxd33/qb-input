@@ -1,5 +1,9 @@
 # qb-input
 
+Modifed to support a design and added sub text.
+
+![](https://i.imgur.com/Ujvrd2j.png)
+
 NUI input system for QBCore
 
 This is a modified version of **[NH Keyboard](https://forum.cfx.re/t/no-longer-supported-standalone-nerohiro-s-keyboard-dynamic-nui-keyboard-input/2506326)** by **[NeroHiro](https://github.com/nerohiro)**
