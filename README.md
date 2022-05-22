@@ -16,6 +16,7 @@ Here is an example commant which will create a basic form and will print out it'
 RegisterCommand('testinput', function()
     local dialog = exports['qb-input']:ShowInput({
         header = "Test",
+        info = "I am going to display under the title",
         submitText = "Bill",
         inputs = {
             {
